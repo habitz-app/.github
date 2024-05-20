@@ -1,5 +1,4 @@
-
-<img src="./assets/HABITZ.png" width = "180">
+<img src="https://github.com/habitz-app/.github/blob/main/profile/assets/HABITZ.png" width = "180">
 <br>
 <br>
 
@@ -8,7 +7,7 @@
 🗓 **기간** : 2024.04.08 ~ 2024.05.17<br>
 ✨ **주제** : 미션과 보상을 통한 우리 아이 습관 형성 서비스<br>
 
-<img src = "./assets/main.png">
+<img src = "https://github.com/habitz-app/.github/blob/main/profile/assets/main.png">
 
 <br>
 <br>
@@ -54,13 +53,13 @@ Habitz는 미션과 보상을 통해 자녀의 올바른 습관 형성을 만들
 
 ### 👩‍❤️‍👨 Parent
 
-| ![메인](./assets/screen/parent/main.gif) | ![일정관리](./assets/screen/parent/cal.gif) | ![미션 승인](./assets/screen/parent/reco.gif) |
-| :------------------------------------: | :----------------------------------------: | :-------------------------------------------: |
-|                홈 화면                 |                미션 관리                 |                   미션 승인                  |
+| ![메인](https://github.com/habitz-app/.github/blob/main/profile/assets/screen/parent/main.gif) | ![일정관리](https://github.com/habitz-app/.github/blob/main/profile/assets/screen/parent/cal.gif) | ![미션 승인](https://github.com/habitz-app/.github/blob/main/profile/assets/screen/parent/reco.gif) |
+| :--------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------: |
+|                                            홈 화면                                             |                                             미션 관리                                             |                                              미션 승인                                              |
 
-| ![포인트 충전](./assets/screen/parent/point.gif) | ![상점관리](./assets/screen/parent/product.gif) 
-| :---------------------------------------------------: | :---------------------------------------------------: | 
-|                      포인트 충전                       |상점 관리|
+| ![포인트 충전](https://github.com/habitz-app/.github/blob/main/profile/assets/screen/parent/point.gif) | ![상점관리](https://github.com/habitz-app/.github/blob/main/profile/assets/screen/parent/product.gif) |
+| :----------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------: |
+|                                              포인트 충전                                               |                                               상점 관리                                               |
 
 #### ❤︎ 미션을 통해 아이의 습관을 형성해보세요
 
@@ -82,13 +81,13 @@ Habitz는 미션과 보상을 통해 자녀의 올바른 습관 형성을 만들
 ### 👼 Child
 
 
-| ![홈](./assets/screen/child/main.gif) | ![미션 인증](./assets/screen/child/reco.gif) | ![노티](./assets/screen/child/noti.gif) |
-| :------------------------------------: | :----------------------------------------: | :-------------------------------------------: |
-|                홈 화면                |                미션과 인증                  |                   알림 확인                 |
+| ![홈](https://github.com/habitz-app/.github/blob/main/profile/assets/screen/child/main.gif) | ![미션 인증](https://github.com/habitz-app/.github/blob/main/profile/assets/screen/child/reco.gif) | ![노티](https://github.com/habitz-app/.github/blob/main/profile/assets/screen/child/noti.gif) |
+| :-----------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------: |
+|                                           홈 화면                                           |                                            미션과 인증                                             |                                           알림 확인                                           |
 
-| ![마이페이지](./assets/screen/child/mypage.gif) | ![퀴즈](./assets/screen/child/quiz.gif)| ![상점](./assets/screen/child/product.gif) |
-| :---------------------------------------------------: | :-------------------------------------: | :-------------------------------------------: |
-|                      마이페이지                       |                 퀴즈                 |                   상점                   |
+| ![마이페이지](https://github.com/habitz-app/.github/blob/main/profile/assets/screen/child/mypage.gif) | ![퀴즈](https://github.com/habitz-app/.github/blob/main/profile/assets/screen/child/quiz.gif) | ![상점](https://github.com/habitz-app/.github/blob/main/profile/assets/screen/child/product.gif) |
+| :---------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------: |
+|                                              마이페이지                                               |                                             퀴즈                                              |                                               상점                                               |
 
 
 #### ❤︎ 미션을 수행하며 용돈을 벌어볼까요?
@@ -110,9 +109,9 @@ Habitz는 미션과 보상을 통해 자녀의 올바른 습관 형성을 만들
 
 ## 🛠 기술 스택 
 
-| Frontend | Backend | Infra | 
-| :----:| :----:| :----:|
-| ![프론트엔드](./assets/system/front.png) | ![백엔드](./assets/system/back.png) | ![인프라](./assets/system/infra.png)|
+|                                            Frontend                                            |                                          Backend                                          |                                           Infra                                            |
+| :--------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------: |
+| ![프론트엔드](https://github.com/habitz-app/.github/blob/main/profile/assets/system/front.png) | ![백엔드](https://github.com/habitz-app/.github/blob/main/profile/assets/system/back.png) | ![인프라](https://github.com/habitz-app/.github/blob/main/profile/assets/system/infra.png) |
 
 ### ✅ 구현 사항
 <il>
@@ -128,20 +127,20 @@ Habitz는 미션과 보상을 통해 자녀의 올바른 습관 형성을 만들
 
 ## ⚙️ 시스템 구성도
 
-<img src = "./assets/system/arc.png">
+<img src = "https://github.com/habitz-app/.github/blob/main/profile/assets/system/arc.png">
 
 
 ## 💾 ERD 구성도 
-<img src = "./assets/system/erd.png">
+<img src = "https://github.com/habitz-app/.github/blob/main/profile/assets/system/erd.png">
 
 
 ----
 ### 👥 Team
 
-| [![용희원](https://github.com/heecircle.png)](https://github.com/heecircle) | [![정필모](https://github.com/itsmo1031.png)](https://github.com/itsmo1031)  | [![김세민](https://github.com/kimgiraffe.png)](https://github.com/kimgiraffe)  | [![신시원](https://github.com/tooyul.png)](https://github.com/tooyul)  |  [![박세정](https://github.com/sejeong-park.png)](https://github.com/sejeong-park) | [![조승우](https://github.com/KrswJo.png)](https://github.com/KrswJo)| 
-| :---------------------------------------------------: | :-------------------------------------: | :-------------------------------------------: |:---------------------------------------------------: | :---------------------------------------------------: | :---------------------------------------------------: |
-|                      [👑 용희원](https://github.com/heecircle)                     |                 [정필모](https://github.com/itsmo1031)                 |                   [김세민](https://github.com/kimgiraffe)                   |  [신시원](https://github.com/tooyul) |  [박세정](https://github.com/sejeong-park) | [조승우](https://github.com/KrswJo) |
-|PM Frontend Backend| Frontend Infra Design| Frontend Design | Frontend| Backend| Backend | 
+| [![용희원](https://github.com/heecircle.png)](https://github.com/heecircle) | [![정필모](https://github.com/itsmo1031.png)](https://github.com/itsmo1031) | [![김세민](https://github.com/kimgiraffe.png)](https://github.com/kimgiraffe) | [![신시원](https://github.com/tooyul.png)](https://github.com/tooyul) | [![박세정](https://github.com/sejeong-park.png)](https://github.com/sejeong-park) | [![조승우](https://github.com/KrswJo.png)](https://github.com/KrswJo) |
+| :-------------------------------------------------------------------------: | :-------------------------------------------------------------------------: | :---------------------------------------------------------------------------: | :-------------------------------------------------------------------: | :-------------------------------------------------------------------------------: | :-------------------------------------------------------------------: |
+|                  [👑 용희원](https://github.com/heecircle)                   |                   [정필모](https://github.com/itsmo1031)                    |                    [김세민](https://github.com/kimgiraffe)                    |                  [신시원](https://github.com/tooyul)                  |                     [박세정](https://github.com/sejeong-park)                     |                  [조승우](https://github.com/KrswJo)                  |
+|                             PM Frontend Backend                             |                            Frontend Infra Design                            |                                Frontend Design                                |                               Frontend                                |                                      Backend                                      |                                Backend                                |
 
 
 ## 🙋🏻‍♀️ Role
